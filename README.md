@@ -2,6 +2,8 @@
 
 Dashboard desenvolvido no Looker para apresentar os resultados preliminares do concurso público para o cargo de ANALISTA DE GESTÃO DE INFORMAÇÕES GEOGRÁFICAS E ESTATÍSTICAS - TECNOLOGIA DA INFORMAÇÃO. 
 
+Link para o dashboard: https://lookerstudio.google.com/reporting/5cc13ca8-4cd4-494e-8912-073b66eb7c2f
+
 # Tratamento dos Dados
 
 A banca divulgou um pdf (https://anexos.cdn.selecao.net.br/uploads/227/concursos/91/anexos/jGkFLPaw6gZTfna0fT0VoDqRIIW9uHCmFvXXg8NQ.pdf) com as notas finais. Fiz a conversão do PDF em XLSX no site IlovePdf e, em seguida, converti para Google Sheets. Fiz a padronização dos dados, pois, o arquivo já veio com os dados organizados e limpos. Após a padronização importei o arquivo no Looker Studio.
