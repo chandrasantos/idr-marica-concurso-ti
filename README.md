@@ -6,7 +6,7 @@ Link para o dashboard: https://lookerstudio.google.com/reporting/5cc13ca8-4cd4-4
 
 # Tratamento dos Dados
 
-A banca divulgou um pdf (https://anexos.cdn.selecao.net.br/uploads/227/concursos/91/anexos/jGkFLPaw6gZTfna0fT0VoDqRIIW9uHCmFvXXg8NQ.pdf) com as notas finais. Fiz a conversão do PDF em XLSX no site IlovePdf e, em seguida, converti para Google Sheets. Fiz a padronização dos dados, pois, o arquivo já veio com os dados organizados e limpos. Após a padronização importei o arquivo no Looker Studio.
+A banca divulgou um pdf (https://anexos.cdn.selecao.net.br/uploads/227/concursos/91/anexos/jGkFLPaw6gZTfna0fT0VoDqRIIW9uHCmFvXXg8NQ.pdf) com as notas finais. Por se tratar de um arquivo com apenas 400 linhas, fiz a conversão do PDF em XLSX no site IlovePdf e, em seguida, converti para Google Sheets. Fiz a padronização dos dados, pois, o arquivo já veio com os dados organizados e limpos. Após a padronização importei o arquivo no Looker Studio.
 
 # Análise e Visualização de Dados
 
