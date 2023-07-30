@@ -1,4 +1,5 @@
 # Instituto Darcy Ribeiro - Maricá - Cargo Analista de Gestão de Informações Geográficas e Estatísticas - Tecnologia da Informação.
+<div><img src="https://idr.marica.rj.gov.br/wp-content/uploads/2023/04/idrfotoentrada-450x231.jpeg"></div>
 
 Dashboard desenvolvido no Looker para apresentar os resultados preliminares do concurso público para o cargo de ANALISTA DE GESTÃO DE INFORMAÇÕES GEOGRÁFICAS E ESTATÍSTICAS - TECNOLOGIA DA INFORMAÇÃO. 
 
